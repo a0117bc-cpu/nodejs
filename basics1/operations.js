@@ -1,0 +1,7 @@
+console.log(2+2)
+//console.log(++5)
+console.log(2*5)
+console.log("34"+56)
+console.log(2+5+6+"90")
+console.log("shravani"+56)
+console.log(40+50+'s')
